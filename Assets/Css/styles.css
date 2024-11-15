@@ -25,6 +25,12 @@ nav ul {
 main > h2 {
   margin-left: 50px;
 }
+nav ul li:hover {
+  background-color: rgb(231, 231, 231);
+  border-radius: 5px;
+  width: 100px;
+  height: auto;
+}
 
 .product-list {
   display: block;
